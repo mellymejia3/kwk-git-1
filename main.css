@@ -1,0 +1,70 @@
+/* Style sheet for me Website */
+
+body{
+background-color: #DACFC2;
+}
+
+p{
+color: #25201F;
+font-family: Calibri;
+font-size: 1.1em;
+}
+
+h1{
+color: #25201F;
+font-family: Georgia;	
+font-size: 1.4em;
+}
+
+h2,h3{
+color: #25201F;
+font-family: Georgia;
+background-color: #A29E93;
+	text-align:center;
+	font-size: 1.2em;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #25201F;
+  font-family: Calibri;
+}
+
+.main-image{
+   display: inline-block;
+}
+
+#artimg{
+float:left;
+margin: 20px;
+padding: 20px;
+border.width: 1px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #817F75;
+  color: white;
+}
+
+a:hover, a:active, a:visited, a:hover{
+	color: white;
+	font-family: Calibri;
+}
+
+
+
